@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597446278136,
+  "timestamp": 1597449177583,
   "index": "https://gdg-nara.github.io/youtuben/index.html",
   "assetGroups": [
     {
@@ -152,6 +152,7 @@
         "https://gdg-nara.github.io/youtuben/assets/icons/icon-512x512.png",
         "https://gdg-nara.github.io/youtuben/assets/icons/icon-72x72.png",
         "https://gdg-nara.github.io/youtuben/assets/icons/icon-96x96.png",
+        "https://gdg-nara.github.io/youtuben/assets/icons/icon.png",
         "https://gdg-nara.github.io/youtuben/assets/images/img1.png",
         "https://gdg-nara.github.io/youtuben/assets/shapes.svg"
       ],
@@ -279,11 +280,12 @@
     "https://gdg-nara.github.io/youtuben/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://gdg-nara.github.io/youtuben/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://gdg-nara.github.io/youtuben/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://gdg-nara.github.io/youtuben/assets/icons/icon.png": "35eb9f28a8af2164c2dafb56f5f86b27d46b26cd",
     "https://gdg-nara.github.io/youtuben/assets/images/img1.png": "a27713267d09c83def079dfc7bf4ce0fb2dad00b",
     "https://gdg-nara.github.io/youtuben/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://gdg-nara.github.io/youtuben/common-es2015.714b3f88b340bfde0128.js": "d520d933399d16c435d03f61b566d60269970f9b",
     "https://gdg-nara.github.io/youtuben/common-es5.714b3f88b340bfde0128.js": "9d160d7357d105694979c863aa3f965ca52dbd0f",
-    "https://gdg-nara.github.io/youtuben/index.html": "0a118d67105702e89d06717669fde87dcc7e86f6",
+    "https://gdg-nara.github.io/youtuben/index.html": "68a33f2a7888927c44220b127952fc4106320d39",
     "https://gdg-nara.github.io/youtuben/main-es2015.9a2baac8babc4b9d0f15.js": "e0e7173e3b563a7b273882dcc093a25efdd04155",
     "https://gdg-nara.github.io/youtuben/main-es5.9a2baac8babc4b9d0f15.js": "af396f183b9851ab1f4da82b27380d124ef470fb",
     "https://gdg-nara.github.io/youtuben/manifest.webmanifest": "eddc0baa908c97f456960a3f73df3f466342593b",
